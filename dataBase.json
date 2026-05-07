@@ -15557,5 +15557,88 @@
       "qrcode": "./exercises/18-QRCodesCollections/QRcode/017-Wrist and Fingers Strengthening Collection.png",
       "content": ["1lWFMXEpXB3GjGAKy1JKYTbq5XHSfderk", "1W5RBWiWPNCzZ6cOz8sSjFq_GTPm3BXPp", "1vKRR0khvGJb9NDSCraDEs0GOMUYsJscd", "1y7OVUyjVLuseHG3Ce2Uhb6SEz_j0oFzW", "1hY23104Jg8XGoEn3ohAV9Hb1BhPgdYCW", "1LIfBxMwH4lZobjQv80FkXAwQhSaLckfv", "1U5Ayd5DNCdYeZ_wGjBnBh6EOlZukgo-P", "1jct8IzB1dIYGFK8cOjsro68oghdRRSxf", "1kMizn0CyVHfw-Cui0strzkue1qFpmnHu", "1mkSWPYUpseoECBjFbSMBQVZ7YktZMQHX", "1FHx_xjRqT-UGDc-4Q5V0hr7O8dmzWjpa", "1jLcAp1a8Sw2lmkGfqnQBItj7OkxA3kNe", "1n2flJz9Ktves4a0GleDM05I1uMM2fP6Z", "1Zg1-WfPa4zT54CZW6IDQph_qkwhscQwR", "1Pt2TAEMgqTW-l5swGTREgYnWWVDZDlrP"]
     }
-  ]
+  ],
+  "orginalSittings": {
+    "collections": [
+      {
+        "id": "M0TDZ1TC-00PQSWH9H9WR",
+        "name": "General Knee Home Program",
+        "cards": ["1fenNHVWBc-y4ioVgke0aHzVMJA0Dg6Fm", "1T8ZLSaMvBvPconZnhu9VMLW8mWpXhv4S", "1J5hQxTJOzA26z4A0tk97FrVaqXU_85WW", "1PJ8PEeL9SQc8pH_frV8XExde5KUWR-T-", "1A04R8K6ztr7gdpMtpRvbDuW7jiMTlB9B", "1rwDUUCJyQpqDPy_U7xXGTjPQULjHLOMF", "16osyzj_bZSIPL9Hbg99SIzrmti8YiPRM"]
+      },
+      {
+        "id": "M0TDZ1TC-02BJHI9Q2R5D",
+        "name": "General Neck Home Program",
+        "cards": ["1KE2aT40eQdMY-vdk-yLZwW15HoUOgJgn", "1brjYnjVOz2fAka7xWtFprSnPe3hcnkHd", "19PQYFNZvaAW8bI2r7It_VxyL1jExhA6h", "1x2I35qFtqQrLCs0gd2ZLT632KxuKU4QJ", "1QM6OhNvYx-nfLDVN26IfN-sO6WjRkGoh", "1oavLYOn4g1UEsH6BCC-inG8oQNR0Z91L", "1CMtHiJAi9S7Zd3AI7O3L5Fw0_Xh04-RL", "1qY0GRGmjL8gDgWjF15TBGcqt1JNNAreB", "1u1poiGJcVj7kJ5aktUFLBkcnIVkANPAy", "1gNmB10rIqzZEMtvZM7Xo-N2m8ymfNKvm", "1eZvwgDptYMa_ScF0kYufDSYteZHekQKC", "1xOje7i7LjXXpOCyFyrGMmdWYnIasAZjK"]
+      },
+      {
+        "id": "M0TDZ1TC-02EG74RLWDQF",
+        "name": "General Shoulder Home Program",
+        "cards": ["1IwauibaToCcXFMhismFeVGc2T0wk8PaE", "1pXjPi22qZiOjqNV268HG4ATIuw38Kn3z", "1sybzbv_gZsQOt63O-1aqwPqGkGlrOGV4", "1FRUlOeVLkO7W7biZGqPgBHx5bA0fVuRC", "1K28gF48v8rDKun3mlGlgupZGN84mcydP", "1ABS8zDBArUbMsrOXr0dJt7GoaJoJczzL", "101g7PMv_-tXwr3iggD_NwUW7iJ5nUQtK", "1IRogNiFRPeWf2xGSWSWQpqn_N4nGJyx8", "1-3Fr_AYnqtcu5cF-Wlx0CdwEbdXvt9YC", "1jfp5K9st2OqjXsGewWkJxvXd0If9Zt9f", "1N_qEUikoyuMLjeuI4yVbBdvfj79EDD37", "14u5WPE38M1fxVnA_AYlRga32Q5Rp9Sx2", "1lb8dz4zHBphX_AzTAr7PV2oRGl5gLzLr", "1E0ygHsbq1xVq7hu7UB4Wi9kg2MXDvmho", "1Uhl7mZjTAOECDMq6SrrxKjDxedp0SbWU"]
+      },
+      {
+        "id": "M0TDZ1TD-006YIEBPJL4N",
+        "name": "General Back Home Program",
+        "cards": ["1uyQV2L32T1IuaeNlSjUfL4orz4mPBCyY", "1cciqAcoxzhNfkFfEniV3hJt3_4lGLGsp", "1LaXd5FaP_CDxoVIYIE1m6uK45JJH_sgW", "1FjGdOYt5tCMCN_r90lO3PcYms-qY2hMZ", "1ktj-1B7yoIPpazh9kpWxgh33DDHdUQdn", "1Vd04INoBekpRzkqmeP6LtK7_8Er16j6c", "16osyzj_bZSIPL9Hbg99SIzrmti8YiPRM", "1brmdI3egVOUQk4H0f7rcKW4TTnV4wbpK"]
+      },
+      {
+        "id": "M0TDZ1TD-017RWQHCXJCB",
+        "name": "General Foot Home Program",
+        "cards": ["1ZDb4s-WAKs9pbdKJSglaZ47RDbT_GGTq", "14QIFgmRlX4tLIiDFl8u7W2sW98P-KUpC", "1wbMHg9Ha8z4JVeEmxyIP-hDMdJH2CtzY", "1TsqnGzdrYixrv7u8nZRI50TqMQjyJr_T", "1TT7VH9Ijc59_CpT4hF_F-6voYz9fyc-B", "1CtihTpEVIX2Z8x82CxWnfpLBOsFip6qc", "1P95tq7TggK6lTI3YOu2rLPAh31YRN7U7", "16joKom0xJBHy_zK8d9fTiN33dni1jYUY", "1ltLTKF94lfYnP9kVElwdaInGDggCYNNR", "1cZnv-Ja4kmRajeMt7gFqsQpJ1ewRWeRs"]
+      },
+      {
+        "id": "M0TDZ1TD-027FMQ3Y0QOP",
+        "name": "Plantar Fasciitis Home Program",
+        "cards": ["1TT7VH9Ijc59_CpT4hF_F-6voYz9fyc-B", "1yTgSvUodJauXPECi4YR50LyOr7tOwu3D", "1SXmtA9OUJYWHnCvhXtF2BmuFwzyNHiBt", "1ltLTKF94lfYnP9kVElwdaInGDggCYNNR", "16joKom0xJBHy_zK8d9fTiN33dni1jYUY", "1uQtk-BNnsOaY4iiVDsxeDF3skiWi_NLX", "1_ZvP9eR0PRiMxIRt-yfux3CdycVah8Vs"]
+      }
+    ],
+    "favorites": [
+      {
+        "id": "1BhwAmIwyBgjnp6f38W7J8FT430C2Pidt"
+      },
+      {
+        "id": "1Q1PIEc6jdFMcVZFvp3dBgKhUIBCzVI_1"
+      },
+      {
+        "id": "145RvhFqUnRv2Lp2WutUUv6IsMr7V2YKK"
+      },
+      {
+        "id": "1irbFWfjGXbgxYYu-hzLX8DJwM7BAhX8n"
+      },
+      {
+        "id": "1LTdqTYW4OaekkWsJsVyMu92kpX61X-hF"
+      },
+      {
+        "id": "1cnSmzTpcw8EDII8TEYYG6U4liVtHYOzw"
+      },
+      {
+        "id": "1j0GvITX2ZHN0-a2BV00kU_B2Xr1eao-G"
+      },
+      {
+        "id": "10HFyhotHryhTfGlX8g9t4CBaEK-CeVKh"
+      },
+      {
+        "id": "1jMdJR1sU4ZWTKJkei4dvmPjHHj4Y2ehh"
+      }
+    ],
+    "sittingsData": {
+      "theme": "lightTheme",
+      "sizeSlider": "-1",
+      "searchHeight": "8",
+      "tageSitting": "hideTages",
+      "pdfBtnSitting": "showPdfBtn",
+      "tutorialSitting": "showTutorial",
+      "PDFnputJOSN": "PDF"
+    },
+    "usageData": [
+      {
+        "id": "2026",
+        "usedCards": {},
+        "massegeSent": 0,
+        "cardsWithNewTags": [],
+        "usedFavoritesTimes": 0,
+        "usedCollectionsTimes": 0,
+        "sentTitle": 0
+      }
+    ]
+  }
 }
