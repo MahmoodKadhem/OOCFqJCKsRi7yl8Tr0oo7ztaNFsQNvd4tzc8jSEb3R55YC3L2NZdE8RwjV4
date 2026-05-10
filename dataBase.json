@@ -15606,7 +15606,7 @@
     },
     "usageData": [
       {
-        "id": "",
+        "id": usageDataDate,
         "usedCards": {},
         "massegeSent": 0,
         "cardsWithNewTags": [],
