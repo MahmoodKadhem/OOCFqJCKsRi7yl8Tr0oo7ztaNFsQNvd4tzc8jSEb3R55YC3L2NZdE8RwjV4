@@ -15679,9 +15679,9 @@
       "shortId": "EX1307",
       "title": "Breathing Exercise-1 Ara",
       "directory": "./exercises/06-CardioPulmonary/004-Breathing_Exercise-1_Ara.mp4",
-      "docType": "Vid",
+      "docType": "ARA",
       "category": "CardioPulmonary",
-      "fileType": "IMG",
+      "fileType": "VID",
       "bodyPart": [],
       "similarID": [],
       "tags": ["Others CardioPulmonary", "Breathing Exercises"]
@@ -15691,9 +15691,9 @@
       "shortId": "EX1308",
       "title": "Breathing Exercise-2 Ara",
       "directory": "./exercises/06-CardioPulmonary/005-Breathing_Exercise-2_Ara.mp4",
-      "docType": "Vid",
+      "docType": "ARA",
       "category": "CardioPulmonary",
-      "fileType": "IMG",
+      "fileType": "VID",
       "bodyPart": [],
       "similarID": [],
       "tags": ["Others CardioPulmonary", "Breathing Exercises"]
@@ -15703,9 +15703,9 @@
       "shortId": "EX1309",
       "title": "Breathing Exercise-3 Ara",
       "directory": "./exercises/06-CardioPulmonary/006-Breathing_Exercise-3_Ara.mp4",
-      "docType": "Vid",
+      "docType": "ARA",
       "category": "CardioPulmonary",
-      "fileType": "IMG",
+      "fileType": "VID",
       "bodyPart": [],
       "similarID": [],
       "tags": ["Others CardioPulmonary", "Breathing Exercises"]
@@ -15715,9 +15715,9 @@
       "shortId": "EX1310",
       "title": "Breathing Exercise-4 Ara",
       "directory": "./exercises/06-CardioPulmonary/007-Breathing_Exercise-4_Ara.mp4",
-      "docType": "Vid",
+      "docType": "ARA",
       "category": "CardioPulmonary",
-      "fileType": "IMG",
+      "fileType": "VID",
       "bodyPart": [],
       "similarID": [],
       "tags": ["Others CardioPulmonary", "Breathing Exercises"]
@@ -15727,9 +15727,9 @@
       "shortId": "EX1311",
       "title": "Breathing Exercise-5 Ara",
       "directory": "./exercises/06-CardioPulmonary/008-Breathing_Exercise-5_Ara.mp4",
-      "docType": "Vid",
+      "docType": "ARA",
       "category": "CardioPulmonary",
-      "fileType": "IMG",
+      "fileType": "VID",
       "bodyPart": [],
       "similarID": [],
       "tags": ["Others CardioPulmonary", "Breathing Exercises"]
@@ -15739,9 +15739,9 @@
       "shortId": "EX1312",
       "title": "Breathing Exercise-6 Ara",
       "directory": "./exercises/06-CardioPulmonary/009-Breathing_Exercise-6_Ara.mp4",
-      "docType": "Vid",
+      "docType": "ARA",
       "category": "CardioPulmonary",
-      "fileType": "IMG",
+      "fileType": "VID",
       "bodyPart": [],
       "similarID": [],
       "tags": ["Others CardioPulmonary", "Breathing Exercises"]
@@ -15751,9 +15751,9 @@
       "shortId": "EX1313",
       "title": "Breathing Exercise-7 Ara",
       "directory": "./exercises/06-CardioPulmonary/010-Breathing_Exercise-7_Ara.mp4",
-      "docType": "Vid",
+      "docType": "ARA",
       "category": "CardioPulmonary",
-      "fileType": "IMG",
+      "fileType": "VID",
       "bodyPart": [],
       "similarID": [],
       "tags": ["Others CardioPulmonary", "Breathing Exercises"]
@@ -16341,7 +16341,7 @@
       "directory": "./exercises/13-Lectures/008-WH_Clinic_-_Ara.pptx",
       "docType": "Ara.",
       "category": "Lectures",
-      "fileType": "IMG",
+      "fileType": "PPT",
       "bodyPart": [],
       "similarID": [],
       "tags": ["Others Lectures", "WH Clini", "Women Health", "WH Clinic"]
@@ -16353,7 +16353,7 @@
       "directory": "./exercises/13-Lectures/009-Constipation_-_Ara.pptx",
       "docType": "Ara.",
       "category": "Lectures",
-      "fileType": "IMG",
+      "fileType": "PPT",
       "bodyPart": [],
       "similarID": [],
       "tags": ["Others Lectures", "Constipation"]
@@ -16365,7 +16365,7 @@
       "directory": "./exercises/13-Lectures/010-WH_Physiotherapy.pptx",
       "docType": "IMG",
       "category": "Lectures",
-      "fileType": "IMG",
+      "fileType": "PPT",
       "bodyPart": [],
       "similarID": [],
       "tags": ["Others Lectures", "WH Physiotherapy"]
@@ -16804,8 +16804,44 @@
     }
   ],
   "orginalSittings": {
-    "collections": [],
-    "favorites": [],
+    "collections": [
+      {
+        "id": "MP9HFJBI-026A8OL581S3",
+        "name": "تمارين شلل الوجه",
+        "cards": ["10DRldafQu_wic-hs0znOe2R_dYuiG0Jk", "1FhXktxlgn6aL5uOvzMTIbgTIMkig5KoJ", "1gJCBApzZRD_-qAEfpXnKqIlCRFKP_UEq", "1hJu_DqEG01xJAIASTZeBM_PXIuBx6t99", "1hQLUmv1OPFAgfg4GAL3QCiKR-MEeo1xx", "1l2ND6v_sZb-NoLDWSTRRtFze2uzkgqlK", "1m68TcDGQ125flEn8y0hFKiQgHw7VSQI0", "1mbc1yd-ZxaPUGCit-adUTlWnXNCbuEmx", "1qVJiKiAKgr8SsAy0Wv_rNkNZ-HJfGX5S", "1vf83VDobhVq5OWfKyjTvrsELU3CRGAAw", "1x-4gf7I6maGVApzbMtP7L2WqVvTzy2ZH"]
+      },
+      {
+        "id": "MP9HHYKB-0070A97NVNL1",
+        "name": "تمارين تثبيت مفصل الكاحل",
+        "cards": ["1E4OeZDw7jRtqAZCgpwuH03kiEw4nPnd9", "1scAmj2mBDxCBjc98P-sGjrgjGL783eeN", "1jZ6VNSauqq3amK3wplRffc6xB5xQgaGd", "18A3jg8K3qi_BkA9VRxdCEZmH49ruLvAs", "1JtRb9GRbETSpUfb7XMc6PwFPNGnzm2ga", "1dsQGovwAEajDJoLmPE_msWjG3S17JW7x", "16pt0kS8IEbqeQJZ772utOJK3Lza4xTx7"]
+      },
+      {
+        "id": "MP9HMC47-00CU67X56H03",
+        "name": "تمارين تثبيت مفصل الركبة",
+        "cards": ["1Wsd-xXvnv3DHxqG3latlcA0rrqsFmRVb", "1UnQDDrCAP9n9VMpZnc7gmy4ad0Bz0OXR", "1xVnDs3E8wuT4Q0TiXouolAFQckeATK4i", "1zTIvTksJyguAfn4UC_CxIuA6BDi97rwI", "1I4n6xaoZO5qw4EDhoeJVWUs_WXe9cJfQ", "1WY8_WxRPXI85MJ7f8OZaBZbAEtnjQHWM"]
+      },
+      {
+        "id": "MP9KC9SU-01DPDF6XKVVZ",
+        "name": "تمارين تقوية مفصل الركبة",
+        "cards": ["1cb0AGEWwJ6BdkmTar6Md3i9wmMS8zyGC", "1-dvh4vtiF8RJ7f-7g94DStBG1KC-X0JE", "1xdZJ8zdOHTqE4Ci8U8fuRYtOgFbS8QI0", "1Wo5PbdZlMlm07DdmTbB8kmlh6CZ7H_nd", "1OBe-g04sl9eUXIlGP2jAFxjL3CLEMiw9", "1R4r9Z1Ld0EpSRnNw23y3hQH9J6o0JWoK"]
+      },
+      {
+        "id": "MP9NPE2V-00TA87GMZP9D",
+        "name": "تمارين التهاب اللفافة الأخمصية",
+        "cards": ["1TmEy9QiQstKN4VoF7VbegC4XxEzPMYfd", "12Ot4lSJBBqJxp4xgX2SKQXXA71CAlCz_", "15YvSnc4180zznK7-g9sQumD2sUUGmD-e", "1Y0333T5G_GVwFE2o7qSX1vFzW4C1sAkA", "13fB2Poj0mm5NM0w3vrIDMB2FioGMG8iX", "14PTp49vB_0wAc26PHuwa-cAqac8nKuee"]
+      },
+      {
+        "id": "MP9O4DR4-011IQ6FP4KQV",
+        "name": "تمارين تثبيت مفصل الكتف",
+        "cards": ["1DOko_6E8QmZPhZq_qeWuXVqnMztq9yNs", "1H_hqA5jvrsG9V7b6Cn4vF4-gBDZVcrLt", "1P6fm4xKDURpzwY53ZWpxsOkU35zxJWQC", "1T8VDGXHMHwuhdhJyPIVyFhK6k5zZpsUg", "1hFalB80NRENOaQ8RcbVWGux64ax4243S"]
+      },
+      {
+        "id": "MPB90EOB-027XANZY605H",
+        "name": "تمارين آلام الظهر",
+        "cards": ["1I4n6xaoZO5qw4EDhoeJVWUs_WXe9cJfQ", "1FcGfl3XLH0MH0W6zLSqDPZS7XmkwoDz2", "1rAZn54QkVyiX9uItHOOFLu_5yI6VMhBi", "18Pju7V5V2_mrkfedLhRlgGUsERskWBMC", "1A7v01Iq40hCzm_mrya9wnv7gDFG7KMxE", "1cugoc3Aa6-jfdNZx4MaTzDu1T1huub20", "1rbkbax-TOTTX9hCwUstz2EZ3b3JR4h6X", "19sF_vdU3Mt3r9MFyd_PB4enAph2cfF3O"]
+      }
+    ],
+    "favorites": [{ "id": "1FUlOlgDrqlJjWe5w4GYnPm4fUZDj9d8I" }, { "id": "1HGQ88NUSgaAoRNZAb1mVWXEe6aTimcYw" }, { "id": "1TCzKZM9Ld1AEBaeBhHQVT6ki_-NoruA_" }, { "id": "1TuFzVCS9E9_MsNq7khppC7li8XD26_rf" }, { "id": "1_ZvP9eR0PRiMxIRt-yfux3CdycVah8Vs" }, { "id": "1gAW_fBFallII4N_Lo-r6T0xeHjkV7QDO" }, { "id": "1vcnYnLlOOxwpihfyEmb18GAmpRXdB7cE" }],
     "sittingsData": {
       "theme": "lightTheme",
       "sizeSlider": "-1",
